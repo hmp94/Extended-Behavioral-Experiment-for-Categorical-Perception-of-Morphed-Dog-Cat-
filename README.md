@@ -4,7 +4,7 @@ This experiment was inspired by the famous paper 'Categorical representation of 
 
 
 # Material
-Thanks to the author of that paper, I am able to have a collection of morphed dog-cat image. 
+Thanks to the authors of the above paper, I am able to have a collection of morphed dog-cat image. 
 There are 6 pure prototypes (3 dogs, 3 cats) and there are 14 steps within one pair.
 
 # Method
