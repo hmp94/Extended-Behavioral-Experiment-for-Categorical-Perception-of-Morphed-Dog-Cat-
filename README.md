@@ -8,3 +8,8 @@ Thanks to the authors of the above paper, I am able to have a collection of morp
 There are 6 pure prototypes (3 dogs, 3 cats) and there are 14 steps within one pair.
 
 # Method
+- The training dataset was augmented from the original 6 prototypes.
+- The testing dataset was the morphed image
+- To see the behavioral difference in classifying either dog or cat
+    - Expected drastic change in the midpoint
+    - [To test the distance of representation as in (https://arxiv.org/abs/2012.05549)] -  To be think of
